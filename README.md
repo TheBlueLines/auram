@@ -28,7 +28,7 @@ DateTime lastModified = Database.LastEdit(); // Return the date, when the databa
 ```
 
 ## About Auram
-- It sompress the database file
+- It compress the database file
 - The database goes into a single file
 - Open Source
 - Easy to use in C#
