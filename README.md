@@ -17,14 +17,14 @@ using Auram;
 ## Commands
 
 ```cs
-Database.SetTitle("EXAMPLE TITLE"); # Set the database title (optional)
-Database.AddToDatabase("KeyGoesHere", "ValueGoesHere"); # Add a value to database
-Database.SaveDatabase(path); # Save the database in your computer
-Database.ClearDatabase(); # Clear the database
-Database.LoadDatabase(path); # Load the database from the computer
-string author = Database.GetFromDatabase("KeyGoesHere"); # Return the value of the key given
-DateTime createdOn = Database.Since(); # Return the date, when the database created
-DateTime lastModified = Database.LastEdit(); # Return the date, when the database edited
+Database.SetTitle("EXAMPLE TITLE"); // Set the database title (optional)
+Database.AddToDatabase("KeyGoesHere", "ValueGoesHere"); // Add a value to database
+Database.SaveDatabase(path); // Save the database in your computer
+Database.ClearDatabase(); // Clear the database
+Database.LoadDatabase(path); // Load the database from the computer
+string author = Database.GetFromDatabase("KeyGoesHere"); // Return the value of the key given
+DateTime createdOn = Database.Since(); // Return the date, when the database created
+DateTime lastModified = Database.LastEdit(); // Return the date, when the database edited
 ```
 
 ## About Auram
