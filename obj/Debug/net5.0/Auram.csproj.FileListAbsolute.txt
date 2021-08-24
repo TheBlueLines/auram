@@ -1,0 +1,24 @@
+C:\Users\David\source\repos\Auram\bin\Debug\net5.0\Auram.deps.json
+C:\Users\David\source\repos\Auram\bin\Debug\net5.0\Auram.dll
+C:\Users\David\source\repos\Auram\bin\Debug\net5.0\ref\Auram.dll
+C:\Users\David\source\repos\Auram\bin\Debug\net5.0\Auram.pdb
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.AssemblyInfo.cs
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.dll
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\ref\Auram.dll
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.pdb
+C:\Users\David\source\repos\Auram\obj\Debug\net5.0\Auram.csprojAssemblyReference.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\bin\Debug\net5.0\Auram.deps.json
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\bin\Debug\net5.0\Auram.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\bin\Debug\net5.0\ref\Auram.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\bin\Debug\net5.0\Auram.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.AssemblyInfo.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\ref\Auram.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram\obj\Debug\net5.0\Auram.pdb
